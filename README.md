@@ -1,2 +1,3 @@
 # django-forms
-a practical django base application for restuarant
+a django base application for restuarant
+the goal of this project is master django forms
